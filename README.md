@@ -4,3 +4,5 @@ creamos una libreria en python para renderizar fractales estocasticos a partir d
 librerias utilizadas: 
     pygame
     regex
+
+    Franco Di Martino - Mariano Malaspina
